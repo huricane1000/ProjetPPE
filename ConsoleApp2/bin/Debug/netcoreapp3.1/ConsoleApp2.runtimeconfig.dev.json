@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kelia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kelia\\.nuget\\packages"
+    ]
+  }
+}
